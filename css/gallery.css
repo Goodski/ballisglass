@@ -1,0 +1,14 @@
+
+.navbar {
+    background-color: rgba(117, 156, 81, 1);;
+}
+.scrolling-navbar {
+    -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
+    -moz-transition: background .5s ease-in-out, padding .5s ease-in-out;
+    transition: background .5s ease-in-out, padding .5s ease-in-out;
+    
+}
+
+.top-nav-collapse {
+    background-color: rgba(117, 156, 81, 0.67);
+}
